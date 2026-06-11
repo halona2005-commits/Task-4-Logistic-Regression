@@ -44,6 +44,3 @@ Successfully classified breast cancer samples into malignant and benign categori
 - Confusion Matrix
 - ROC Curve
 - Classification Report
-
-## Author
-Your Name
